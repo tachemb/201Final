@@ -1,0 +1,23 @@
+.nav-item{ 
+    text-align: left;
+  font-size: 36px;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 20px;
+} 
+.btn btn-primary btn-xl{ 
+    color: green;
+} 
+.page-section bg-primary{ 
+    color-scheme: green;
+} 
+.background-color{ 
+    background-color: green !important;
+}
+.newimage{  
+    width: 560px !important; 
+    height: 310px !important;
+} 
+.color { 
+    color: green;
+}
